@@ -1,1 +1,1 @@
-A complete report on InstaChef - Smart Recipe Generator 
+A comprehensive report on InstaChef - Smart Recipe Generator 
